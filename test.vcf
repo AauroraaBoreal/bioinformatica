@@ -1,0 +1,13 @@
+##fileformat=VCFv4.1
+##source=ClinVar
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+17	43045685	.	T	A	.	.	.
+17	43045691	.	T	G	.	.	.
+17	43045694	.	G	C	.	.	.
+17	43057068	.	T	C	.	.	.
+17	43063906	.	A	G	.	.	.
+17	43063892	.	A	G	.	.	.
+17	43049155	.	A	T	.	.	.
+17	43090944	.	C	A	.	.	.
+17	43115732	.	A	G	.	.	.
+17	43063900	.	C	T	.	.	.
